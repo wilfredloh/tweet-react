@@ -1,0 +1,34 @@
+body {
+	background-color: black;
+}
+
+* {
+	color: white;
+}
+
+.root {
+	min-width: 600px;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.tweet-container {
+	max-width: 500px;
+}
+
+.main-logo {
+	width: 150px;
+	height: auto;
+}
+
+.main-container {
+	display: flex;
+}
+
+.sidebar {
+	margin: 4rem;
+}
+
+.content {
+	margin: 4rem 8rem;
+}
